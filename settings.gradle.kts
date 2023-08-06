@@ -5,4 +5,4 @@ pluginManagement {
         mavenLocal()
     }
 }
-rootProject.name = "addressbook-fullstack-jooby"
+rootProject.name = "jooby-issue-3061"
